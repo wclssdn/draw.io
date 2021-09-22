@@ -1,11 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T07:28:29.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="nzUW4zzj9WHxiii2JEKj" version="15.2.9" type="github">
-  <diagram id="JkrrRl9M5crf3siJzyxv" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-09-22T07:41:27.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="0m2fii2e9cs7Sp39Rmo7" version="15.2.9" type="github">
+  <diagram id="JkrrRl9M5crf3siJzyxv" name="首页">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="muq-8wqFt1A3YkJvHLC4-4" value="&lt;h1&gt;直播系统&lt;/h1&gt;&lt;p&gt;包含基础的直播、连麦、feed等核心业务逻辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="muq-8wqFt1A3YkJvHLC4-4" value="&lt;h1&gt;直播系统&lt;/h1&gt;&lt;p&gt;包含基础的直播、连麦、feed等核心业务逻辑&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-1" value="业务" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="420" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-2" value="直播" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-3" value="连麦" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-4" value="feed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-6" value="公共房/语音房/交友房" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-7" value="公共房玩法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-8" value="秀场（普通直播）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-9" value="秀场玩法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-10" value="围栏策略（风控）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ernFnO-kNk4knqv_LR0v-11" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ernFnO-kNk4knqv_LR0v-1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
