@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T08:07:17.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ySR00a5V6D4DPrViFISL" version="15.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-22T08:09:36.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="dqtan0TzyrAsa7QUu9KP" version="15.2.9" type="github" pages="5">
   <diagram id="JkrrRl9M5crf3siJzyxv" name="首页">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,12 +86,10 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4xqCCzuoyRrROUdiCYEn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0sZljoyPM4H0UG6xCefu-1" source="4xqCCzuoyRrROUdiCYEn-0" target="4xqCCzuoyRrROUdiCYEn-4">
+        <mxCell id="4xqCCzuoyRrROUdiCYEn-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0sZljoyPM4H0UG6xCefu-1" target="4xqCCzuoyRrROUdiCYEn-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
             <mxPoint x="550" y="322" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="430" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4xqCCzuoyRrROUdiCYEn-14" value="3. 推流" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4xqCCzuoyRrROUdiCYEn-13">
@@ -100,10 +98,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4xqCCzuoyRrROUdiCYEn-0" value="主播" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;" vertex="1" parent="0sZljoyPM4H0UG6xCefu-1">
-          <mxGeometry x="80" y="370" width="40" height="60" as="geometry" />
+          <mxGeometry x="280" y="460" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4xqCCzuoyRrROUdiCYEn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="0sZljoyPM4H0UG6xCefu-1" source="4xqCCzuoyRrROUdiCYEn-3" target="4xqCCzuoyRrROUdiCYEn-0">
+        <mxCell id="4xqCCzuoyRrROUdiCYEn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0sZljoyPM4H0UG6xCefu-1" source="4xqCCzuoyRrROUdiCYEn-3">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="415" />
             </Array>
@@ -111,7 +110,7 @@
         </mxCell>
         <mxCell id="4xqCCzuoyRrROUdiCYEn-12" value="2. 推流地址 &amp;amp; 流号（sn）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4xqCCzuoyRrROUdiCYEn-11">
           <mxGeometry x="-0.0169" y="-1" relative="1" as="geometry">
-            <mxPoint x="-30" as="offset" />
+            <mxPoint x="41" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4xqCCzuoyRrROUdiCYEn-3" value="视频云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0sZljoyPM4H0UG6xCefu-1">
@@ -139,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4xqCCzuoyRrROUdiCYEn-5" value="观众" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;" vertex="1" parent="0sZljoyPM4H0UG6xCefu-1">
-          <mxGeometry x="520" y="500" width="40" height="60" as="geometry" />
+          <mxGeometry x="520" y="460" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
