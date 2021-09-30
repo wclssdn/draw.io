@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T10:48:15.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="7X4CcnH44SPW7bj18f5Q" version="15.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-30T10:53:27.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="c2HbrxFhrJaBP5ZMRSyw" version="15.3.8" type="github" pages="5">
   <diagram id="JkrrRl9M5crf3siJzyxv" name="首页">
     <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="dCshUyOhVYyxnqYZbwJL-0" value="业务" style="swimlane;" parent="aElQeo0Kl3pMIVYMAaIS-1" vertex="1">
           <mxGeometry x="204" y="90" width="420" height="260" as="geometry" />
         </mxCell>
-        <UserObject label="直播" id="dCshUyOhVYyxnqYZbwJL-1">
+        <UserObject label="秀场" link="https://viewer.diagrams.net/?tags=%7B%7D&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=%E7%A7%80%E5%9C%BA.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwclssdn%2Fdraw.io%2Fmain%2Fpepper%2F%25E7%25A7%2580%25E5%259C%25BA.drawio" linkTarget="_blank" id="dCshUyOhVYyxnqYZbwJL-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dCshUyOhVYyxnqYZbwJL-0" vertex="1">
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
           </mxCell>
@@ -41,7 +41,7 @@
         <mxCell id="dCshUyOhVYyxnqYZbwJL-3" value="feed" style="rounded=1;whiteSpace=wrap;html=1;" parent="dCshUyOhVYyxnqYZbwJL-0" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="公共房/语音房/交友房" id="dCshUyOhVYyxnqYZbwJL-4">
+        <UserObject label="公共房/语音房/交友房" link="https://viewer.diagrams.net/?tags=%7B%7D&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=%E5%85%AC%E5%85%B1%E6%88%BF.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwclssdn%2Fdraw.io%2Fmain%2Fpepper%2F%25E5%2585%25AC%25E5%2585%25B1%25E6%2588%25BF.drawio" linkTarget="_blank" id="dCshUyOhVYyxnqYZbwJL-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dCshUyOhVYyxnqYZbwJL-0" vertex="1">
             <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
           </mxCell>
