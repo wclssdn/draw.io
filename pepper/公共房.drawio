@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T11:48:41.213Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="KGuloGCe2LxmtBLtjigG" version="15.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-08T11:49:52.592Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="TVvOnEB5byj-n6312n7D" version="15.4.3" type="github" pages="4">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
       <root>
         <mxCell id="CajkZ8fzduF1L0JBaClh-0" />
         <mxCell id="CajkZ8fzduF1L0JBaClh-1" parent="CajkZ8fzduF1L0JBaClh-0" />
+        <mxCell id="zQV8BtLVhKNFPEUiUPJ5-4" value="" style="shape=card;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
+          <mxGeometry x="40" y="60" width="1730" height="860" as="geometry" />
+        </mxCell>
         <mxCell id="B5PVAERZZZ4Obgn3tonX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="CajkZ8fzduF1L0JBaClh-1" source="7MmJDdI1hTqB-x9aB3v4-0" target="B5PVAERZZZ4Obgn3tonX-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -180,6 +183,9 @@
         </mxCell>
         <mxCell id="zQV8BtLVhKNFPEUiUPJ5-3" value="广播是否在房间内" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
           <mxGeometry x="213" y="320" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zQV8BtLVhKNFPEUiUPJ5-5" value="老板位流程图" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
+          <mxGeometry x="105" y="91" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
