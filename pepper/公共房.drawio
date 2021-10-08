@@ -1,34 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T11:13:13.096Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ToMPjsGYCR0Q60fLucDr" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T02:04:08.722Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Nd4EbVYbd8yek_F07PbN" version="15.3.8" type="github" pages="3">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
-    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dS2q9y8fGwJZVvdApBLA-1" value="业务" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="dS2q9y8fGwJZVvdApBLA-1" value="业务" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="204" y="90" width="420" height="260" as="geometry" />
         </mxCell>
         <UserObject label="老板位" linkTarget="_blank" id="dS2q9y8fGwJZVvdApBLA-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="连麦" id="dS2q9y8fGwJZVvdApBLA-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dS2q9y8fGwJZVvdApBLA-4" value="feed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+        <mxCell id="dS2q9y8fGwJZVvdApBLA-4" value="feed" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dS2q9y8fGwJZVvdApBLA-6" value="公共房玩法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+        <mxCell id="dS2q9y8fGwJZVvdApBLA-6" value="公共房玩法" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
           <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dS2q9y8fGwJZVvdApBLA-9" value="围栏策略（风控）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+        <mxCell id="dS2q9y8fGwJZVvdApBLA-9" value="围栏策略（风控）" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
           <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dS2q9y8fGwJZVvdApBLA-10" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+        <mxCell id="dS2q9y8fGwJZVvdApBLA-10" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
           <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jpBEcrutUJzjFxvU-tsn" name="老板位">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CajkZ8fzduF1L0JBaClh-0" />
+        <mxCell id="CajkZ8fzduF1L0JBaClh-1" parent="CajkZ8fzduF1L0JBaClh-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Vt_0WAhixDmFmOxNODd_" name="玩法">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3f5XnGnoqM0KnkRUKjlq-0" />
+        <mxCell id="3f5XnGnoqM0KnkRUKjlq-1" parent="3f5XnGnoqM0KnkRUKjlq-0" />
       </root>
     </mxGraphModel>
   </diagram>
