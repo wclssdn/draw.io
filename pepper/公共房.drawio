@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:21:02.606Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="WvkqlZ2URmXl721zigfq" version="15.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:22:18.040Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XBfExFNQv12da9xFa0Ix" version="15.4.3" type="github" pages="5">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1149,6 +1149,12 @@
         </mxCell>
         <mxCell id="MIpD8ypbmC-TLpLM7paB-44" value="结束抢帽子玩法" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
           <mxGeometry x="83" y="-3280" width="160" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-45" value="/PublicRoomGame/hatContest/start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
+          <mxGeometry x="490" y="-4569.5" width="210" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-46" value="/PublicRoomGame/hatContest/settle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
+          <mxGeometry x="540" y="-3290" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
