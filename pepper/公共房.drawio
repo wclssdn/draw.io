@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:26:44.943Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="l2oo9b5B5o4VrTlGEe-V" version="15.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:27:07.713Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="eBR2_lZTAp0AkBEjzq7C" version="15.4.3" type="github" pages="5">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1155,7 +1155,7 @@
         <mxCell id="MIpD8ypbmC-TLpLM7paB-43" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
           <mxGeometry x="563" y="-2158" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MIpD8ypbmC-TLpLM7paB-44" value="结束&lt;br&gt;抢帽子：&lt;span style=&quot;&quot;&gt;/PublicRoomGame/hatContest/settle&lt;/span&gt;&lt;br&gt;睡bar：/PublicRoomGame/FallAsleep/start&lt;br&gt;玩法" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-44" value="结束&lt;br&gt;抢帽子：&lt;span&gt;/PublicRoomGame/hatContest/settle&lt;/span&gt;&lt;br&gt;睡bar：/PublicRoomGame/FallAsleep/end&lt;br&gt;玩法" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
           <mxGeometry x="60" y="-3320" width="256" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MIpD8ypbmC-TLpLM7paB-48" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
