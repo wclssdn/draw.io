@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:04:46.408Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="L_3-vcF9M7cOLlNepYY1" version="15.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:05:06.240Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="apStDldoG4pQ3WPPrliK" version="15.4.3" type="github" pages="4">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B5PVAERZZZ4Obgn3tonX-4" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;长连Qchat/go&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
-          <mxGeometry x="374" y="1431" width="120" height="40" as="geometry" />
+          <mxGeometry x="352" y="1431" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B5PVAERZZZ4Obgn3tonX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="CajkZ8fzduF1L0JBaClh-1" source="B5PVAERZZZ4Obgn3tonX-9" target="B5PVAERZZZ4Obgn3tonX-27">
           <mxGeometry relative="1" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry x="1583" y="1356" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zQV8BtLVhKNFPEUiUPJ5-0" value="长连接、消息通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
-          <mxGeometry x="505" y="1461" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="1461" width="75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="zQV8BtLVhKNFPEUiUPJ5-2" value="广播送礼消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
           <mxGeometry x="625" y="1159" width="96" height="30" as="geometry" />
