@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T12:22:18.040Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XBfExFNQv12da9xFa0Ix" version="15.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-08T12:22:56.211Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="wbpz5MfJ9UKcqy1p7DHz" version="15.4.3" type="github" pages="5">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1039,6 +1039,14 @@
         <mxCell id="MIpD8ypbmC-TLpLM7paB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="_ZKY6y17wgzYvZspjpq4-1" source="MIpD8ypbmC-TLpLM7paB-13" target="MIpD8ypbmC-TLpLM7paB-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="_ZKY6y17wgzYvZspjpq4-1" source="MIpD8ypbmC-TLpLM7paB-13" target="MIpD8ypbmC-TLpLM7paB-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="-3086" />
+              <mxPoint x="260" y="-1955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MIpD8ypbmC-TLpLM7paB-13" value="玩法是否存在" style="rhombus;whiteSpace=wrap;html=1;fontColor=#1A1A1A;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
           <mxGeometry x="374" y="-3120.25" width="139.5" height="69.25" as="geometry" />
         </mxCell>
@@ -1155,6 +1163,9 @@
         </mxCell>
         <mxCell id="MIpD8ypbmC-TLpLM7paB-46" value="/PublicRoomGame/hatContest/settle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
           <mxGeometry x="540" y="-3290" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-48" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
+          <mxGeometry x="243" y="-3010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
