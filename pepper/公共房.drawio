@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T11:43:56.214Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Yl9gBLCLcPbi7DqTn5lo" version="15.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-08T11:45:36.711Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ME0GRNTfQIHGKUpTZfPA" version="15.4.3" type="github" pages="4">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,15 @@
         </mxCell>
         <mxCell id="B5PVAERZZZ4Obgn3tonX-54" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
           <mxGeometry x="1558" y="517" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zQV8BtLVhKNFPEUiUPJ5-0" value="长连接、消息通道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
+          <mxGeometry x="480" y="622" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zQV8BtLVhKNFPEUiUPJ5-1" value="订阅：worker/是否在房间内" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
+          <mxGeometry x="919" y="370" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zQV8BtLVhKNFPEUiUPJ5-2" value="订阅：送礼消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CajkZ8fzduF1L0JBaClh-1">
+          <mxGeometry x="1094" y="366" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
