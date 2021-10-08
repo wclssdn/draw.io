@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T02:04:44.762Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="EbntmHt1WkC5AR0Sbma_" version="15.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-08T02:08:46.099Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="u0oAX1E_M1ixIfqvRQ-U" version="15.3.8" type="github" pages="3">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,6 +47,33 @@
       <root>
         <mxCell id="3f5XnGnoqM0KnkRUKjlq-0" />
         <mxCell id="3f5XnGnoqM0KnkRUKjlq-1" parent="3f5XnGnoqM0KnkRUKjlq-0" />
+        <mxCell id="Cj8NwTLnjLEnMpUCybIZ-0" value="业务" style="swimlane;" vertex="1" parent="3f5XnGnoqM0KnkRUKjlq-1">
+          <mxGeometry x="204" y="90" width="420" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="C位玩法" linkTarget="_blank" id="Cj8NwTLnjLEnMpUCybIZ-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+            <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PK争霸赛" id="Cj8NwTLnjLEnMpUCybIZ-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+            <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Cj8NwTLnjLEnMpUCybIZ-3" value="睡Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="团战PK" id="Cj8NwTLnjLEnMpUCybIZ-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+            <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Cj8NwTLnjLEnMpUCybIZ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+          <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cj8NwTLnjLEnMpUCybIZ-6" value="抢帽子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
