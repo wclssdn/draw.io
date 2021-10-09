@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T10:48:44.940Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.3.8" etag="lpu8bCPr6bYqvjoMX9Rz" type="github"><diagram id="-zExrgT_BRnBi5LAR7cQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-09T03:25:48.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="acnzNWpLnFBVMvhzeiuV" version="15.4.3" type="github" pages="2">
+  <diagram id="-zExrgT_BRnBi5LAR7cQ" name="秀场">
+    <mxGraphModel dx="1224" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dI_-nYB475puKDVMi6PS-1" value="秀场业务" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="380" height="250" as="geometry" />
+        </mxCell>
+        <UserObject label="pk" link="data:page/id,10N0lQfYe8wFm5Y1iMHj" linkTarget="_blank" id="dI_-nYB475puKDVMi6PS-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dI_-nYB475puKDVMi6PS-1">
+            <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="10N0lQfYe8wFm5Y1iMHj" name="pk">
+    <mxGraphModel dx="1224" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ViuJwLj1OOJugTnilVeR-0" />
+        <mxCell id="ViuJwLj1OOJugTnilVeR-1" parent="ViuJwLj1OOJugTnilVeR-0" />
+        <mxCell id="oJSJa1uBalol4lqOYZzI-0" value="pk业务" style="swimlane;" vertex="1" parent="ViuJwLj1OOJugTnilVeR-1">
+          <mxGeometry x="130" y="80" width="430" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oJSJa1uBalol4lqOYZzI-1" value="欢乐pk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oJSJa1uBalol4lqOYZzI-0">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJSJa1uBalol4lqOYZzI-2" value="大乱斗" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oJSJa1uBalol4lqOYZzI-0">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJSJa1uBalol4lqOYZzI-3" value="pk排位赛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oJSJa1uBalol4lqOYZzI-0">
+          <mxGeometry x="284" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
