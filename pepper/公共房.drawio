@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T07:21:42.639Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="kzAIfMVpvEXTxAcciLJS" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T07:25:26.462Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="MpOBP5nfa4FePxCs4TrU" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1040,7 +1040,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YfEOopsAK6UrdJ28v8LU-26" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;开启玩法&lt;/span&gt;&lt;/div&gt;抢帽子：&lt;font&gt;/PublicRoomGame/hatContest/start&lt;/font&gt;&lt;br&gt;&lt;font&gt;睡bar：/PublicRoomGame/FallAsleep/start&lt;br&gt;PK争霸赛：/PublicRoomGame/Game/noticeStart【仅内网】&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
-          <mxGeometry x="30" y="-4569.5" width="310" height="109.5" as="geometry" />
+          <mxGeometry x="30" y="-4569.5" width="300" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="YfEOopsAK6UrdJ28v8LU-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1" connectable="0">
           <mxGeometry x="590" y="-4247" as="geometry">
