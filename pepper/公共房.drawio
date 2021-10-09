@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T07:48:51.101Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="yGvLc4CQfuLk2DBcVUfg" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T07:51:20.293Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="xqw68xC1BxWOvyKcvND6" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,7 +287,7 @@
             <mxGeometry x="20" y="200" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="连连看&lt;br&gt;玩法标识：&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_CONNECT_TO_&lt;br&gt;ELIMINATE &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;10&lt;/span&gt;" id="R-IO2zxDihNCVpOnaUn8-5">
+        <UserObject label="连连看&lt;br&gt;玩法标识：&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_CONNECT_TO_&lt;br&gt;ELIMINATE &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;10&lt;/span&gt;" link="data:page/id,W3alFhPP-jhaToDO0ESV" id="R-IO2zxDihNCVpOnaUn8-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fontStyle=0" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="186" y="200" width="163" height="60" as="geometry" />
           </mxCell>
@@ -1039,7 +1039,7 @@
             <mxPoint x="-178" y="103" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YfEOopsAK6UrdJ28v8LU-26" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;开启玩法&lt;/span&gt;&lt;/div&gt;抢帽子：&lt;font&gt;/PublicRoomGame/hatContest/start&lt;/font&gt;&lt;br&gt;&lt;font&gt;睡bar：/PublicRoomGame/FallAsleep/start&lt;br&gt;PK争霸赛：/PublicRoomGame/Game/noticeStart【仅内网】&lt;br&gt;跳一跳：/PublicRoomGame/Jump/start&lt;br&gt;摩登大厦：/PublicRoomGame/BuildSkyscraper/start&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
+        <mxCell id="YfEOopsAK6UrdJ28v8LU-26" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;开启玩法&lt;/span&gt;&lt;/div&gt;抢帽子：&lt;font&gt;/PublicRoomGame/hatContest/start&lt;/font&gt;&lt;br&gt;&lt;font&gt;睡bar：/PublicRoomGame/FallAsleep/start&lt;br&gt;PK争霸赛：/PublicRoomGame/Game/noticeStart【仅内网】&lt;br&gt;跳一跳：/PublicRoomGame/Jump/start&lt;br&gt;摩登大厦：/PublicRoomGame/BuildSkyscraper/start&lt;br&gt;连连看：/PublicRoomGame/ConnectToEliminate/start&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-630" y="-4571" width="350" height="101" as="geometry" />
         </mxCell>
         <mxCell id="YfEOopsAK6UrdJ28v8LU-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1" connectable="0">
@@ -1241,7 +1241,7 @@
         <mxCell id="MIpD8ypbmC-TLpLM7paB-43" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-30" y="-2158" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MIpD8ypbmC-TLpLM7paB-44" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;玩法结束&lt;/span&gt;&lt;/div&gt;抢帽子：&lt;span&gt;/PublicRoomGame/hatContest/settle&lt;/span&gt;&lt;br&gt;睡bar：/PublicRoomGame/FallAsleep/end&lt;br&gt;PK争霸赛：/PublicRoomGame/Game/noticeEnd【仅内网】&lt;br&gt;跳一跳：/PublicRoomGame/Jump/end&lt;br&gt;摩登大厦：/PublicRoomGame/BuildSkyscraper/end" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-44" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;玩法结束&lt;/span&gt;&lt;/div&gt;抢帽子：&lt;span&gt;/PublicRoomGame/hatContest/settle&lt;/span&gt;&lt;br&gt;睡bar：/PublicRoomGame/FallAsleep/end&lt;br&gt;PK争霸赛：/PublicRoomGame/Game/noticeEnd【仅内网】&lt;br&gt;跳一跳：/PublicRoomGame/Jump/end&lt;br&gt;摩登大厦：/PublicRoomGame/BuildSkyscraper/end&lt;br&gt;连连看：/PublicRoomGame/ConnectToEliminate/end" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-630" y="-3320" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MIpD8ypbmC-TLpLM7paB-48" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
