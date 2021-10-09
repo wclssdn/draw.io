@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T07:52:58.827Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LaHfz4Y1U6pzqpIRd0cn" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T07:56:29.988Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Nan5RNjhBth0YBeUIN-t" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="团战PK2&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_TEAM_PK_2 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;13&lt;/span&gt;" id="Cj8NwTLnjLEnMpUCybIZ-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;labelBackgroundColor=none;fontStyle=0" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="185" y="280" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -264,13 +264,13 @@
             <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="蹦迪&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_DJ &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;4&lt;/span&gt;" id="i0wAqBBswS0UucSfyLc2-0">
+        <UserObject label="蹦迪&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_DJ &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;4&lt;/span&gt;" link="data:page/id,W3alFhPP-jhaToDO0ESV" id="i0wAqBBswS0UucSfyLc2-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;labelBackgroundColor=none;fontStyle=0" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="185" y="40" width="165" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="谁是卧底&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_WHO_SPY &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;5&lt;/span&gt;" id="i0wAqBBswS0UucSfyLc2-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;labelBackgroundColor=none;fontStyle=0" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="365" y="40" width="165" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -298,7 +298,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="简易拍卖&lt;br&gt;玩法标识：&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_EASY_ACTION &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;16&lt;/span&gt;" id="regNRbqtxK7AHBX7PmOe-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontColor=#000000;labelBackgroundColor=none;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="185" y="360" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -307,7 +307,7 @@
             <mxGeometry x="20" y="40" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="regNRbqtxK7AHBX7PmOe-3" value="你画我猜&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_DRAW &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=0;labelBackgroundColor=none;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
+        <mxCell id="regNRbqtxK7AHBX7PmOe-3" value="你画我猜&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_DRAW &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
           <mxGeometry x="20" y="120" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="摩登大厦&lt;br&gt;玩法标识：&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_BUILD_SKYSCRAPER&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;9&lt;/span&gt;" link="data:page/id,W3alFhPP-jhaToDO0ESV" id="regNRbqtxK7AHBX7PmOe-4">
@@ -315,7 +315,7 @@
             <mxGeometry x="20" y="200" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="regNRbqtxK7AHBX7PmOe-5" value="拍卖&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_AUCTION &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;12&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=0;labelBackgroundColor=none;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
+        <mxCell id="regNRbqtxK7AHBX7PmOe-5" value="拍卖&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_AUCTION &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;12&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
           <mxGeometry x="20" y="280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-IO2zxDihNCVpOnaUn8-0" value="废弃业务" style="swimlane;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="3f5XnGnoqM0KnkRUKjlq-1" vertex="1">
