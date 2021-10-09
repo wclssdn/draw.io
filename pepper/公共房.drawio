@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T03:30:16.556Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7qGW9y2oNHEa8JjAb3Tp" version="15.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-09T03:52:32.289Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7XaGn9zICaaWe9LACfEB" version="15.4.3" type="github" pages="5">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
         <mxCell id="3f5XnGnoqM0KnkRUKjlq-0" />
         <mxCell id="3f5XnGnoqM0KnkRUKjlq-1" parent="3f5XnGnoqM0KnkRUKjlq-0" />
         <mxCell id="Cj8NwTLnjLEnMpUCybIZ-0" value="玩法业务" style="swimlane;" parent="3f5XnGnoqM0KnkRUKjlq-1" vertex="1">
-          <mxGeometry x="204" y="90" width="420" height="260" as="geometry" />
+          <mxGeometry x="204" y="90" width="426" height="320" as="geometry" />
         </mxCell>
         <UserObject label="C位玩法" linkTarget="_blank" link="data:page/id,B53UcdbekcW8lphydVk-" id="Cj8NwTLnjLEnMpUCybIZ-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
@@ -249,6 +249,11 @@
         <UserObject label="抢帽子" link="data:page/id,W3alFhPP-jhaToDO0ESV" id="Cj8NwTLnjLEnMpUCybIZ-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="团战PK&amp;amp;&amp;amp;C位玩法发奖励" id="dN_-LT_znj7fWRKk-Mpj-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+            <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
