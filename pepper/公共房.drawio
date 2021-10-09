@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T07:07:21.961Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="rc-kd4c_C83VHmuNQwsC" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T07:08:00.721Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="L-DZlxypBMILxPe3ZlxS" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,11 +327,6 @@
         <mxCell id="R-IO2zxDihNCVpOnaUn8-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;相亲&lt;br&gt;玩法标识：&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;GAME_&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;DATING_SHOW&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;= 2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#e51400;strokeColor=#B20000;fontStyle=1;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="R-IO2zxDihNCVpOnaUn8-0">
           <mxGeometry x="224" y="40" width="186" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="团战PK2&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_TEAM_PK_2 &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 9.8pt&quot;&gt;13&lt;/span&gt;" id="R-IO2zxDihNCVpOnaUn8-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontColor=#1A1A1A;labelBackgroundColor=default;fontStyle=0" vertex="1" parent="3f5XnGnoqM0KnkRUKjlq-1">
-            <mxGeometry x="880" y="250" width="160" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
