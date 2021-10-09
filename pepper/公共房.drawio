@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T08:56:59.768Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Zvvd-zEtk5ytftREK6Yk" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T08:58:33.541Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="lh32lzPv_Zh3FIjvj2EC" version="15.4.3" type="github" pages="9">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="连麦" id="dS2q9y8fGwJZVvdApBLA-3">
+        <UserObject label="连麦" link="data:page/id,QJa8uEaxjNc_t_ggfQJo" id="dS2q9y8fGwJZVvdApBLA-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="149.5" y="110" width="120" height="60" as="geometry" />
           </mxCell>
@@ -31,14 +31,16 @@
         <mxCell id="dS2q9y8fGwJZVvdApBLA-10" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
           <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="房间主页" id="e0sHb5prT2UBOXRWd1oo-1">
+        <UserObject label="房间主页" link="data:page/id,AIA0k0HEVJznPmN9xUwv" id="e0sHb5prT2UBOXRWd1oo-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="81cKV1OcsGWCNvgBYcaH-1" value="有声书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
-          <mxGeometry x="286" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="有声书" link="data:page/id,DUs-H36dUJBEokPnoEmX" id="81cKV1OcsGWCNvgBYcaH-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+            <mxGeometry x="286" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="antBEikxpocaunXRbGNS-2" value="废弃业务" style="swimlane;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="204" y="440" width="420" height="260" as="geometry" />
         </mxCell>
@@ -1297,6 +1299,30 @@
         <mxCell id="TihgiFnJlEXsKm7WpYI5-4" value="发放&lt;span style=&quot;font-size: 9.8pt&quot;&gt;称号牌&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt&quot;&gt;【&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt&quot;&gt;用户榜【前&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;10&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt&quot;&gt;】&lt;/span&gt;&lt;span style=&quot;font-size: 9.8pt&quot;&gt;】&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="wmadF4hatbI9Y88J22J5-1" vertex="1">
           <mxGeometry x="620" y="170" width="180" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DUs-H36dUJBEokPnoEmX" name="有声书">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Iz3a8Z4lZwhG1DXZuzVj-0" />
+        <mxCell id="Iz3a8Z4lZwhG1DXZuzVj-1" parent="Iz3a8Z4lZwhG1DXZuzVj-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AIA0k0HEVJznPmN9xUwv" name="房间主页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KL9Y3xetG106iK4uAfYZ-0" />
+        <mxCell id="KL9Y3xetG106iK4uAfYZ-1" parent="KL9Y3xetG106iK4uAfYZ-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QJa8uEaxjNc_t_ggfQJo" name="连麦">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="XR_ma_YqNeJ3DbuUOoMn-0" />
+        <mxCell id="XR_ma_YqNeJ3DbuUOoMn-1" parent="XR_ma_YqNeJ3DbuUOoMn-0" />
       </root>
     </mxGraphModel>
   </diagram>
