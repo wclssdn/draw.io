@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T03:28:26.646Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="GvnTIBCvbdaWbke5Oh-K" version="15.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-09T03:30:16.556Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7qGW9y2oNHEa8JjAb3Tp" version="15.4.3" type="github" pages="5">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -628,11 +628,11 @@
         <mxCell id="QyreWPmP55YCd-Fkr6Lq-52" value="&lt;span style=&quot;font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;发送世界公告&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
           <mxGeometry x="2265.56" y="-2173.625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QyreWPmP55YCd-Fkr6Lq-56" value="结束C位玩法流程" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
-          <mxGeometry x="100" y="-3217" width="130" height="24" as="geometry" />
+        <mxCell id="QyreWPmP55YCd-Fkr6Lq-56" value="结束C位玩法流程&lt;br&gt;接口：/PublicRoomGame/CPosition/end" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
+          <mxGeometry x="65" y="-3224" width="250" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="QyreWPmP55YCd-Fkr6Lq-58" value="C位玩法下一阶段处理流程" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
-          <mxGeometry x="1720" y="-3217" width="170" height="24" as="geometry" />
+        <mxCell id="QyreWPmP55YCd-Fkr6Lq-58" value="C位玩法下一阶段处理流程&lt;br&gt;接口：/PublicRoomGame/CPosition/next" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
+          <mxGeometry x="1720" y="-3227" width="240" height="57" as="geometry" />
         </mxCell>
         <mxCell id="QyreWPmP55YCd-Fkr6Lq-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#000000;" parent="Zv017r6NXR5MsrumfRZH-1" source="QyreWPmP55YCd-Fkr6Lq-59" target="QyreWPmP55YCd-Fkr6Lq-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -838,7 +838,7 @@
         <mxCell id="QyreWPmP55YCd-Fkr6Lq-145" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
           <mxGeometry x="1360" y="-1883" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyreWPmP55YCd-Fkr6Lq-147" value="cron真正结束cC位玩法" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
+        <mxCell id="QyreWPmP55YCd-Fkr6Lq-147" value="cron真正结束C位玩法" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
           <mxGeometry x="880" y="-3117" width="160" height="27" as="geometry" />
         </mxCell>
         <mxCell id="DV8EtSA6dSB6Fkgw5zOs-0" value="扫表：&lt;span style=&quot;color: rgb(26 , 26 , 26)&quot;&gt;public_room_game&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
