@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T08:58:33.541Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="lh32lzPv_Zh3FIjvj2EC" version="15.4.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-10-09T10:27:28.634Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="d-fjkIT6XBi1J32i85MK" version="15.4.3" type="github" pages="9">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="有声书" link="data:page/id,DUs-H36dUJBEokPnoEmX" id="81cKV1OcsGWCNvgBYcaH-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="286" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -49,13 +49,13 @@
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="kJ0svzRW7l9WCdFDRHCZ-1" value="所有人看到有不对的可以随时更改，并在下方位置说明写清楚。新增不用写" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="kJ0svzRW7l9WCdFDRHCZ-1" value="所有人看到有不对的可以随时更改，并在下方位置说明写清楚。新增不用写" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="780" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kJ0svzRW7l9WCdFDRHCZ-2" value="1.&lt;div&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="kJ0svzRW7l9WCdFDRHCZ-2" value="1.&lt;div&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="60" y="780" width="716" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="kJ0svzRW7l9WCdFDRHCZ-3" value="调整说明或调整的点【组内所有人知情后方可删除说明】" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="kJ0svzRW7l9WCdFDRHCZ-3" value="调整说明或调整的点【组内所有人知情后方可删除说明】" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="90" y="790" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -1116,7 +1116,7 @@
         <mxCell id="MIpD8ypbmC-TLpLM7paB-0" value="" style="shape=card;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;gradientColor=none;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-660" y="-3350" width="867" height="1531" as="geometry" />
         </mxCell>
-        <mxCell id="MIpD8ypbmC-TLpLM7paB-3" value="&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;调服务端API结束抢帽子玩法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#006EAF;fillColor=#1ba1e2;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
+        <mxCell id="MIpD8ypbmC-TLpLM7paB-3" value="&lt;span style=&quot;font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;调服务端API结束玩法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;strokeColor=#006EAF;fillColor=#1ba1e2;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-210" y="-3300" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MIpD8ypbmC-TLpLM7paB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#000000;strokeWidth=1;" parent="_ZKY6y17wgzYvZspjpq4-1" target="MIpD8ypbmC-TLpLM7paB-9" edge="1">
@@ -1264,10 +1264,10 @@
         <mxCell id="9zEujXS29L827ZeP_RvJ-0" value="获取玩法信息接口：publicRoomV2/available" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-116.25" y="-4571" width="168" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="86Ax_X1T2psvDnT9-jPa-0" value="注：以下玩法都有公共的开启逻辑" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
+        <mxCell id="86Ax_X1T2psvDnT9-jPa-0" value="注：以下玩法都有公共的开启逻辑" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-620" y="-4630" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="86Ax_X1T2psvDnT9-jPa-1" value="注：以下玩法都有公共的结束逻辑" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1" vertex="1" parent="_ZKY6y17wgzYvZspjpq4-1">
+        <mxCell id="86Ax_X1T2psvDnT9-jPa-1" value="注：以下玩法都有公共的结束逻辑" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;fontStyle=1" parent="_ZKY6y17wgzYvZspjpq4-1" vertex="1">
           <mxGeometry x="-620" y="-3380" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
