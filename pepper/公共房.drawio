@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T06:49:51.565Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="iWylLxo5iuZz03mPhV6E" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T06:50:17.495Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="uhlPUbll_8i1kML3B6CF" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="dS2q9y8fGwJZVvdApBLA-1" value="业务" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="204" y="90" width="420" height="260" as="geometry" />
         </mxCell>
-        <UserObject label="老板位&lt;br&gt;标识：p_new_boss" linkTarget="_blank" link="data:page/id,jpBEcrutUJzjFxvU-tsn" id="dS2q9y8fGwJZVvdApBLA-2">
+        <UserObject label="老板位" linkTarget="_blank" link="data:page/id,jpBEcrutUJzjFxvU-tsn" id="dS2q9y8fGwJZVvdApBLA-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
           </mxCell>
