@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T03:25:28.919Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="tZpAPcBT29Wy1gQPeXWf" version="15.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-09T03:28:26.646Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="GvnTIBCvbdaWbke5Oh-K" version="15.4.3" type="github" pages="5">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,8 +378,8 @@
             <mxPoint x="-178" y="103" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2jPEVIoZvQFukSgVoxYD-37" value="开启玩法流程" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
-          <mxGeometry x="90" y="-4531" width="100" height="25" as="geometry" />
+        <mxCell id="2jPEVIoZvQFukSgVoxYD-37" value="开启玩法流程&lt;br&gt;接口：/PublicRoomGame/CPosition/start" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
+          <mxGeometry x="60" y="-4527" width="260" height="67" as="geometry" />
         </mxCell>
         <mxCell id="2jPEVIoZvQFukSgVoxYD-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1" connectable="0">
           <mxGeometry x="590" y="-4210" as="geometry">
@@ -846,6 +846,9 @@
         </mxCell>
         <mxCell id="DV8EtSA6dSB6Fkgw5zOs-1" value="扫表：&lt;span style=&quot;color: rgb(26 , 26 , 26)&quot;&gt;public_room_game&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Zv017r6NXR5MsrumfRZH-1" vertex="1">
           <mxGeometry x="1406.5" y="-3257" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uZ72qr7S6Fa-iuczjS9v-0" value="获取玩法信息接口：publicRoomV2/available" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Zv017r6NXR5MsrumfRZH-1">
+          <mxGeometry x="480" y="-4534" width="168" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
