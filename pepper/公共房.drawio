@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T03:55:30.756Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="QoJY0tYsa_ZPRdRFUWPh" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T03:58:13.489Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6sEamPHn2i9Fk9kMd2kE" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1187,6 +1187,9 @@
       <root>
         <mxCell id="wmadF4hatbI9Y88J22J5-0" />
         <mxCell id="wmadF4hatbI9Y88J22J5-1" parent="wmadF4hatbI9Y88J22J5-0" />
+        <mxCell id="rQE3jcvwO1x6VRMEl6K6-0" value="&lt;pre style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;&quot;&gt;public_room_game_award_send_cron&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;labelBackgroundColor=none;" vertex="1" parent="wmadF4hatbI9Y88J22J5-1">
+          <mxGeometry x="30" y="30" width="230" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
