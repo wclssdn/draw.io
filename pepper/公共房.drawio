@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T08:06:30.588Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="v_pe58gy2K1Up85OWBxz" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T08:07:29.392Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="SqP_l4SZShPbN43UihUu" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
         </UserObject>
         <UserObject label="团战PK2&amp;amp;&amp;amp;C位玩法&lt;br&gt;发奖励" link="data:page/id,Cz6nv2SlDNUt9vSMIik8" id="dN_-LT_znj7fWRKk-Mpj-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
-            <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
+            <mxGeometry x="20" y="520" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="蹦迪&lt;br&gt;玩法标识：&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;GAME_DJ &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;4&lt;/span&gt;" link="data:page/id,W3alFhPP-jhaToDO0ESV" id="i0wAqBBswS0UucSfyLc2-0">
