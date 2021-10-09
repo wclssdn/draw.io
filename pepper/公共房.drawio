@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T03:58:13.489Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6sEamPHn2i9Fk9kMd2kE" version="15.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-09T06:02:17.311Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="zw1BKjqrUlGSVNZ-lVaj" version="15.4.3" type="github" pages="6">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="280" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="房间主页" id="e0sHb5prT2UBOXRWd1oo-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -251,8 +251,8 @@
             <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="团战PK&amp;amp;&amp;amp;C位玩法发奖励" link="data:page/id,Cz6nv2SlDNUt9vSMIik8" id="dN_-LT_znj7fWRKk-Mpj-0">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Cj8NwTLnjLEnMpUCybIZ-0">
+        <UserObject label="团战PK&amp;amp;&amp;amp;C位玩法&lt;br&gt;发奖励" link="data:page/id,Cz6nv2SlDNUt9vSMIik8" id="dN_-LT_znj7fWRKk-Mpj-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="Cj8NwTLnjLEnMpUCybIZ-0" vertex="1">
             <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
