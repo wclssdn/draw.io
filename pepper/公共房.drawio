@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T02:32:38.921Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="-ec5Fkb4qZWnrt7Iln8w" version="15.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-10-13T02:33:17.926Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="pQIIWuIPtLuMVSaqYp8d" version="15.5.2" type="github" pages="10">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,9 +41,11 @@
             <mxGeometry x="286" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="L0fyTyBkL9vSXaIdAyiK-1" value="开播提醒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
-          <mxGeometry x="286" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="开播提醒" link="data:page/id,U-_y3iX_LG3gfkY0HQeO" id="L0fyTyBkL9vSXaIdAyiK-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+            <mxGeometry x="286" y="180" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="antBEikxpocaunXRbGNS-2" value="废弃业务" style="swimlane;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="204" y="440" width="420" height="260" as="geometry" />
         </mxCell>
@@ -1326,6 +1328,14 @@
       <root>
         <mxCell id="XR_ma_YqNeJ3DbuUOoMn-0" />
         <mxCell id="XR_ma_YqNeJ3DbuUOoMn-1" parent="XR_ma_YqNeJ3DbuUOoMn-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U-_y3iX_LG3gfkY0HQeO" name="开播提醒">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="MKwiMLYteCySCIrb0ElN-0" />
+        <mxCell id="MKwiMLYteCySCIrb0ElN-1" parent="MKwiMLYteCySCIrb0ElN-0" />
       </root>
     </mxGraphModel>
   </diagram>
