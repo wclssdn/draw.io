@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T10:53:27.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="c2HbrxFhrJaBP5ZMRSyw" version="15.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-28T08:06:06.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TQ47z54oyIr-5qYRR8g8" version="15.6.1" type="github" pages="6">
   <diagram id="JkrrRl9M5crf3siJzyxv" name="首页">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OcnRzmBqEoDELf5zF7kq" name="业务架构">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aElQeo0Kl3pMIVYMAaIS-0" />
         <mxCell id="aElQeo0Kl3pMIVYMAaIS-1" parent="aElQeo0Kl3pMIVYMAaIS-0" />
@@ -90,11 +90,17 @@
         <mxCell id="dCshUyOhVYyxnqYZbwJL-18" value="合流服务&lt;br&gt;MessageGo" style="rounded=1;whiteSpace=wrap;html=1;" parent="dCshUyOhVYyxnqYZbwJL-10" vertex="1">
           <mxGeometry x="150" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BuVS46-TkiNwcYZuGizC-0" value="数据存储Mysql" style="swimlane;" parent="aElQeo0Kl3pMIVYMAaIS-1" vertex="1">
+          <mxGeometry x="204" y="620" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BuVS46-TkiNwcYZuGizC-1" value="pepper_live：13292" style="rounded=1;whiteSpace=wrap;html=1;" parent="BuVS46-TkiNwcYZuGizC-0" vertex="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2If-XE616trNsrKNitFG" name="网络架构">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TTrNQgziFKTgW6OweBsR-0" />
         <mxCell id="TTrNQgziFKTgW6OweBsR-1" parent="TTrNQgziFKTgW6OweBsR-0" />
@@ -152,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ihJIVngMhtVQFcZcG6Q3" name="直播">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0sZljoyPM4H0UG6xCefu-0" />
         <mxCell id="0sZljoyPM4H0UG6xCefu-1" parent="0sZljoyPM4H0UG6xCefu-0" />
@@ -335,10 +341,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CaRJbMkdmK1p81n7yvHB" name="连麦">
-    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5BehhAIvUdlPNVUDa8zG-0" />
         <mxCell id="5BehhAIvUdlPNVUDa8zG-1" parent="5BehhAIvUdlPNVUDa8zG-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XAyFvoGsdAG6FnK1lUWf" name="pepper_live：13292">
+    <mxGraphModel dx="895" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="xsvRO4bJ8WbG25kLiYNQ-0" />
+        <mxCell id="xsvRO4bJ8WbG25kLiYNQ-1" parent="xsvRO4bJ8WbG25kLiYNQ-0" />
       </root>
     </mxGraphModel>
   </diagram>
