@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T13:01:30.917Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="xD1llH-FCKkyt3eIY1M9" version="15.6.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-11-01T13:05:40.387Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="j04iQqwf711ALjXcOUNd" version="15.6.3" type="github" pages="11">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1616,6 +1616,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-289" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OA2Hq32mLWVVmBXn7grG-0" value="" style="line;strokeWidth=5;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#FF0000;" vertex="1" parent="1E-6s8B2qNt_aEEueP_N-1">
+          <mxGeometry x="60" y="680" width="1350" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="OA2Hq32mLWVVmBXn7grG-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeColor=#00FFFF;strokeWidth=2;" vertex="1" parent="1E-6s8B2qNt_aEEueP_N-1">
+          <mxGeometry x="20" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OA2Hq32mLWVVmBXn7grG-7" value="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1E-6s8B2qNt_aEEueP_N-1">
+          <mxGeometry x="22" y="201" width="42" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OA2Hq32mLWVVmBXn7grG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeColor=#00FFFF;strokeWidth=2;" vertex="1" parent="1E-6s8B2qNt_aEEueP_N-1">
+          <mxGeometry x="30" y="700" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OA2Hq32mLWVVmBXn7grG-9" value="2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1E-6s8B2qNt_aEEueP_N-1">
+          <mxGeometry x="32" y="711" width="42" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
