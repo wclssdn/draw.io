@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T03:50:10.859Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Y5mBEBQXROBAjf7nJqMc" version="15.6.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-11-01T10:26:12.775Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="v7qjiDTix8w7lLkQ9lrs" version="15.6.3" type="github" pages="11">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dS2q9y8fGwJZVvdApBLA-1" value="业务" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="79" y="90" width="680" height="260" as="geometry" />
+          <mxGeometry x="74" y="110" width="686" height="260" as="geometry" />
         </mxCell>
         <UserObject label="新老板位" linkTarget="_blank" link="data:page/id,jpBEcrutUJzjFxvU-tsn" id="dS2q9y8fGwJZVvdApBLA-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-            <mxGeometry x="286" y="40" width="120" height="60" as="geometry" />
+            <mxGeometry x="285" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="连麦" link="data:page/id,QJa8uEaxjNc_t_ggfQJo" id="dS2q9y8fGwJZVvdApBLA-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-            <mxGeometry x="151.5" y="110" width="120" height="60" as="geometry" />
+            <mxGeometry x="150.5" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dS2q9y8fGwJZVvdApBLA-4" value="feed" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
@@ -22,14 +22,14 @@
         </mxCell>
         <UserObject label="公共房玩法" link="data:page/id,Vt_0WAhixDmFmOxNODd_" id="dS2q9y8fGwJZVvdApBLA-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-            <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+            <mxGeometry x="19" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dS2q9y8fGwJZVvdApBLA-9" value="围栏策略（风控）" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dS2q9y8fGwJZVvdApBLA-10" value="搜索" style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="房间主页" link="data:page/id,AIA0k0HEVJznPmN9xUwv" id="e0sHb5prT2UBOXRWd1oo-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
@@ -38,16 +38,16 @@
         </UserObject>
         <UserObject label="有声书" link="data:page/id,DUs-H36dUJBEokPnoEmX" id="81cKV1OcsGWCNvgBYcaH-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-            <mxGeometry x="286" y="110" width="120" height="60" as="geometry" />
+            <mxGeometry x="286" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="开播提醒" link="data:page/id,U-_y3iX_LG3gfkY0HQeO" id="L0fyTyBkL9vSXaIdAyiK-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
-            <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+            <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="创建公告房" link="data:page/id,GwRTQjhgJGEkY8yVeXIu" id="IV7Cn8g4z2bFkYKHJJkD-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dS2q9y8fGwJZVvdApBLA-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
