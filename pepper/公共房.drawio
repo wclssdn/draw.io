@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T07:52:34.346Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6m0uHHCJChq3T4TCSa7I" version="15.6.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-11-05T07:56:06.135Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="YozxquF6ULURsWORwXkM" version="15.6.8" type="github" pages="11">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,11 @@
         <UserObject label="旧老板位&lt;br&gt;sync_key:p_boss" linkTarget="_blank" id="antBEikxpocaunXRbGNS-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="antBEikxpocaunXRbGNS-2" vertex="1">
             <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="派对房&lt;br&gt;prid:&amp;gt;1000000" linkTarget="_blank" id="JaVHov3BDr71HUzkSBeg-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="antBEikxpocaunXRbGNS-2">
+            <mxGeometry x="156" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="kJ0svzRW7l9WCdFDRHCZ-1" value="所有人看到有不对的可以随时更改，并在下方位置说明写清楚。新增不用写" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
