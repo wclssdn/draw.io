@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T06:39:52.295Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="nizHCTrVQvKHNM0iB5K5" version="15.6.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-11-08T06:40:13.327Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gFzDQJTnoUKfTvFwLSNQ" version="15.6.8" type="github" pages="12">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1721,9 +1721,6 @@
             <mxGeometry x="372.5" y="140" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="_OnGokaOHtk8uojwm8HY-2" value="相关接口：src/application/controller/PublicRoomV2/Link下" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fPFan09IZa9md8nCk_9Z-1">
-          <mxGeometry x="160" y="60" width="330" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
