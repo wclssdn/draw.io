@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T06:32:04.782Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fhUP6Rbu4fe98aPZIz4x" version="15.6.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-11-08T06:32:39.725Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="MeFCX_6Frv1V2QjhSNsr" version="15.6.8" type="github" pages="12">
   <diagram id="w2BI5Dd3woxVxx0NkbVP" name="公共房业务">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="连麦" link="data:page/id,QJa8uEaxjNc_t_ggfQJo" id="dS2q9y8fGwJZVvdApBLA-3">
+        <UserObject label="连麦" link="data:page/id,svs00qJyTemS1cWAQtQe" id="dS2q9y8fGwJZVvdApBLA-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" parent="dS2q9y8fGwJZVvdApBLA-1" vertex="1">
             <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
           </mxCell>
@@ -1702,7 +1702,7 @@
       <root>
         <mxCell id="fPFan09IZa9md8nCk_9Z-0" />
         <mxCell id="fPFan09IZa9md8nCk_9Z-1" parent="fPFan09IZa9md8nCk_9Z-0" />
-        <mxCell id="9mLBqqT5OPk5DGtaa6wX-0" value="玩法业务" style="swimlane;" vertex="1" parent="fPFan09IZa9md8nCk_9Z-1">
+        <mxCell id="9mLBqqT5OPk5DGtaa6wX-0" value="连麦业务" style="swimlane;" vertex="1" parent="fPFan09IZa9md8nCk_9Z-1">
           <mxGeometry x="160" y="110" width="550" height="300" as="geometry" />
         </mxCell>
         <UserObject label="连麦申请" id="9mLBqqT5OPk5DGtaa6wX-37">
