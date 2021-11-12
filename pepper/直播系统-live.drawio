@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T08:06:06.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TQ47z54oyIr-5qYRR8g8" version="15.6.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-11-12T07:56:45.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zq_5a16a2ymrYvJ-RZOA" version="15.7.3" type="github" pages="7">
   <diagram id="JkrrRl9M5crf3siJzyxv" name="首页">
-    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,11 +17,14 @@
             <mxGeometry x="294" y="150" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="rpPbhtvm8TYqvsUe1H7X-1" value="视频云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="OcnRzmBqEoDELf5zF7kq" name="业务架构">
-    <mxGraphModel dx="1298" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aElQeo0Kl3pMIVYMAaIS-0" />
         <mxCell id="aElQeo0Kl3pMIVYMAaIS-1" parent="aElQeo0Kl3pMIVYMAaIS-0" />
@@ -353,6 +356,19 @@
       <root>
         <mxCell id="xsvRO4bJ8WbG25kLiYNQ-0" />
         <mxCell id="xsvRO4bJ8WbG25kLiYNQ-1" parent="xsvRO4bJ8WbG25kLiYNQ-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0YcznHOIUwYm0GEVbv36" name="视频云">
+    <mxGraphModel dx="1186" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0v08Msln-kgXkimzi997-0" />
+        <mxCell id="0v08Msln-kgXkimzi997-1" parent="0v08Msln-kgXkimzi997-0" />
+        <UserObject label="推拉流接入三方CDN" link="https://app.diagrams.net/?client=1#Hwclssdn%2Fdraw.io%2Fmain%2Fpepper%2F%E6%8E%A8%E6%8B%89%E6%B5%81%E6%8E%A5%E5%85%A5%E4%B8%89%E6%96%B9CDN.drawio.svg" linkTarget="_blank" id="0v08Msln-kgXkimzi997-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0v08Msln-kgXkimzi997-1">
+            <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
