@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T09:04:59.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ksj7_sa8LwHMve4t1vDK" version="15.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-19T09:40:32.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1l6V4SWNXuELTVTEpL-F" version="15.8.2" type="github" pages="3">
   <diagram id="-zExrgT_BRnBi5LAR7cQ" name="秀场">
     <mxGraphModel dx="1298" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iFGO0_nW-d2mRWAo7Vv8" name="开播">
-    <mxGraphModel dx="1854" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4327" dy="3626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7iOyxtZFTVFlowte3Iuy-0" />
         <mxCell id="7iOyxtZFTVFlowte3Iuy-1" parent="7iOyxtZFTVFlowte3Iuy-0" />
@@ -491,13 +491,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7iOyxtZFTVFlowte3Iuy-120" value="Curl" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
+        <mxCell id="7iOyxtZFTVFlowte3Iuy-120" value="Lib" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
           <mxGeometry x="1360" y="110" width="100" height="4180" as="geometry" />
         </mxCell>
         <mxCell id="7iOyxtZFTVFlowte3Iuy-121" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-120">
           <mxGeometry x="45" y="2950" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7iOyxtZFTVFlowte3Iuy-122" value="28、过滤标题敏感(api.data.huajiao.com)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="7iOyxtZFTVFlowte3Iuy-121" parent="7iOyxtZFTVFlowte3Iuy-1" source="7iOyxtZFTVFlowte3Iuy-2">
+        <mxCell id="7iOyxtZFTVFlowte3Iuy-122" value="28、过滤标题敏感(&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Antispam,&lt;/span&gt;&lt;br&gt;api.data.huajiao.com)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="7iOyxtZFTVFlowte3Iuy-121" parent="7iOyxtZFTVFlowte3Iuy-1" source="7iOyxtZFTVFlowte3Iuy-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1335" y="3040" as="sourcePoint" />
           </mxGeometry>
@@ -578,7 +578,7 @@
             <mxPoint x="815" y="3956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7iOyxtZFTVFlowte3Iuy-167" value="Antispam" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
+        <mxCell id="7iOyxtZFTVFlowte3Iuy-167" value="Lib" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
           <mxGeometry x="710" y="110" width="100" height="4390" as="geometry" />
         </mxCell>
         <mxCell id="7iOyxtZFTVFlowte3Iuy-169" value="Dao" style="html=1;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
@@ -591,10 +591,10 @@
           <mxGeometry x="680" y="-110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7iOyxtZFTVFlowte3Iuy-173" value="RemoteService" style="html=1;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
-          <mxGeometry x="540" y="-110" width="110" height="50" as="geometry" />
+          <mxGeometry x="540" y="-180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7iOyxtZFTVFlowte3Iuy-174" value="Sync" style="html=1;" vertex="1" parent="7iOyxtZFTVFlowte3Iuy-1">
-          <mxGeometry x="400" y="-110" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="-90" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
