@@ -1,15 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T03:25:48.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="acnzNWpLnFBVMvhzeiuV" version="15.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-19T02:24:50.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TQ5a3w9WW6oMO1Q_y4AX" version="15.8.2" type="github" pages="3">
   <diagram id="-zExrgT_BRnBi5LAR7cQ" name="秀场">
-    <mxGraphModel dx="1224" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dI_-nYB475puKDVMi6PS-1" value="秀场业务" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="dI_-nYB475puKDVMi6PS-1" value="秀场业务" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="210" y="90" width="380" height="250" as="geometry" />
         </mxCell>
         <UserObject label="pk" link="data:page/id,10N0lQfYe8wFm5Y1iMHj" linkTarget="_blank" id="dI_-nYB475puKDVMi6PS-2">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dI_-nYB475puKDVMi6PS-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="dI_-nYB475puKDVMi6PS-1" vertex="1">
             <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="开播" linkTarget="_blank" id="jEsV86pqmchG5fzxGEFL-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dI_-nYB475puKDVMi6PS-1">
+            <mxGeometry x="144" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -32,6 +37,14 @@
         <mxCell id="oJSJa1uBalol4lqOYZzI-3" value="pk排位赛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oJSJa1uBalol4lqOYZzI-0">
           <mxGeometry x="284" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iFGO0_nW-d2mRWAo7Vv8" name="开播">
+    <mxGraphModel dx="1298" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7iOyxtZFTVFlowte3Iuy-0" />
+        <mxCell id="7iOyxtZFTVFlowte3Iuy-1" parent="7iOyxtZFTVFlowte3Iuy-0" />
       </root>
     </mxGraphModel>
   </diagram>
